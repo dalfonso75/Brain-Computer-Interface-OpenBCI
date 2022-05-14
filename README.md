@@ -2,8 +2,8 @@
 Operation of a Mitsubishi RV-M1 manipulator implementing a BCI interface.
 
 ## Mitsubishi operation video
-[![Alt text](https://img.youtube.com/vi/FSGHh9VBQdQ&t/0.jpg)](https://www.youtube.com/watch?v=FSGHh9VBQdQ&t)
 
+[![Watch the video](https://img.youtube.com/vi/FSGHh9VBQdQ/maxresdefault.jpg)](https://youtu.be/FSGHh9VBQdQ)
 
 ## Repository link University of La Salle
 
